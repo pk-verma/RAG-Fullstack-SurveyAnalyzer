@@ -1,0 +1,11 @@
+# Backend Dependencies
+fastapi 
+uvicorn 
+pydantic 
+numpy 
+pandas 
+sentence-transformers 
+llama-index 
+unstructured
+llama_index
+scikit-learn
